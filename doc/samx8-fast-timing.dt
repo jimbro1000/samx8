@@ -1,0 +1,64 @@
+OSCout=1, TIME="", E=0, Q=0, A15_0="", S2_0="", DA0="", VClk=0, Z18_0="", _RAS0=0, _GE=1, _CE=0, _WE=1.
+OSCout=0, TIME="0", Q=1, _RAS0=1.
+.
+OSCout=1.
+VClk=1.
+OSCout=0, TIME="1", Z18_0="CPU", _CE=1.
+.
+OSCout=1.
+.
+OSCout=0, TIME="2", E=1, _GE=0.
+.
+OSCout=1.
+VClk=0.
+OSCout=0, TIME="3".
+.
+OSCout=1.
+.
+OSCout=0, TIME="4", Q=0, _CE=0, _WE=0.
+.
+OSCout=1.
+VClk=1.
+OSCout=0, TIME="5".
+.
+OSCout=1.
+.
+OSCout=0, TIME="6", E=0, _RAS0=0, _GE=1, _CE=1, _WE=1.
+.
+OSCout=1, A15_0=X.
+VClk=0, S2_0=X, Z18_0=X.
+OSCout=0, TIME="7".
+.
+OSCout=1, A15_0="".
+S2_0="", Z18_0="CPU+1".
+OSCout=0, TIME="8", Q=1.
+.
+OSCout=1.
+VClk=1.
+OSCout=0, TIME="9".
+.
+OSCout=1.
+.
+OSCout=0, TIME="A", E=1, DA0=X, _GE=0.
+.
+OSCout=1.
+VClk=0.
+OSCout=0, TIME="B".
+.
+OSCout=1.
+.
+OSCout=0, TIME="C", Q=0, DA0="", _CE=0, _WE=0.
+.
+OSCout=1.
+VClk=1.
+OSCout=0, TIME="D".
+.
+OSCout=1.
+.
+OSCout=0, TIME="E", E=0, _GE=1, _CE=1, _WE=1.
+.
+OSCout=1, A15_0=X.
+VClk=0, S2_0=X, Z18_0=X.
+OSCout=0, TIME="F", Z18_0="VDG", _CE=0.
+.
+OSCout=1, A15_0="".
